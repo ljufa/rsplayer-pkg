@@ -1,0 +1,68 @@
+Package: rsplayer-desktop
+Architecture: amd64
+Version: 4.9.0
+Priority: optional
+Maintainer: Dragan Ljubojevic <dragan.ljubojevic@gmail.com>
+Installed-Size: 37452
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/r/rsplayer-desktop/rsplayer-desktop_4.9.0_amd64.deb
+Size: 17012544
+MD5sum: 4b96aa93a0135b482d23379209f19265
+SHA1: e0cd55e5c23ed8b7db4002fcfa62dd22acd8282c
+SHA256: aec85b6356294551615bea97aab7af27512cb76f96579c76558cb71fc78cb142
+SHA512: 1fe42a625f4b4b82503024e01e2b8122b36f0c7cf4893a4f0ba8abe721bcc33b85aec985c2b157c0ca46612a6a6743bf963b4e996cb45707eafcf3b873ec86ac
+Description: RSPlayer Desktop
+ (none)
+
+Package: rsplayer-desktop
+Architecture: amd64
+Version: 4.9.5
+Priority: optional
+Maintainer: Dragan Ljubojevic <dragan.ljubojevic@gmail.com>
+Installed-Size: 37489
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/r/rsplayer-desktop/rsplayer-desktop_4.9.5_amd64.deb
+Size: 17025280
+MD5sum: cc1c0c6b8f830a9e9019705c2e232fa9
+SHA1: ec7b0fe5253382e11016d85f0eaddf7c4c746c30
+SHA256: 25e65398975abc9d83566fcb5b8e8e675804694823ae7a260d67f630e59b12ce
+SHA512: 2447fcfcf2e8f7ad248340f4012d47a3ec185c0ab2a4e403e0f48c5a51596c98124985d042a952170c018f4b65df81a8dafd80a94689580254d308b538cc0130
+Description: RSPlayer Desktop
+ (none)
+
+Package: rsplayer
+Architecture: amd64
+Version: 4.9.0
+Priority: optional
+Section: Sound
+Maintainer: Dragan Ljubojevic <dragan.ljubojevic@gmail.com>
+Installed-Size: 30427
+Depends: libasound2 (>= 1.2.4-1.1)
+Suggests: nfs-common (>= 1:1.3.4-6), cifs-utils (>= 2:6.9-1)
+Filename: pool/main/r/rsplayer/rsplayer_4.9.0_amd64.deb
+Size: 9699392
+MD5sum: 8d02fe4c74b9815defda6a6e5e5558af
+SHA1: dd43247c4cfefccc001bb79e212bc44c364f6450
+SHA256: 3223e75665b10d0fa23dc4b4e23a78b30f3d4ecca309f75280a410f725ac99fe
+SHA512: 542dda503193e7c79bcefee9bfbfc6ce0ba1815a19e24a66e88390e8c9640a77fa830022748355dc0fa5c8c1e6f1a2866cfef631a25b86c63ccddc04c267ced9
+Homepage: https://github.com/ljufa/rsplayer
+Description: RSPlayer - Music Player
+
+Package: rsplayer
+Architecture: amd64
+Version: 4.9.5
+Priority: optional
+Section: Sound
+Maintainer: Dragan Ljubojevic <dragan.ljubojevic@gmail.com>
+Installed-Size: 30464
+Depends: libasound2 (>= 1.2.4-1.1)
+Suggests: nfs-common (>= 1:1.3.4-6), cifs-utils (>= 2:6.9-1)
+Filename: pool/main/r/rsplayer/rsplayer_4.9.5_amd64.deb
+Size: 9714908
+MD5sum: 1a54556d9a7637cbe4b31fe2fdeb2b46
+SHA1: 11af85a177df464de1a2db219a41e7e7b62c7636
+SHA256: bfcbf6248efb989c1476527879be2933686cb82279f91fea4bb7c62e4e65be50
+SHA512: d65c6ac144221f2d4ce6065858714ed18e32892604fe29bb3ad2c2422d4b75001a3030f75330775d8eb0c10db93a4c265fbe1ae51526b59453d78ae97fe1ef2b
+Homepage: https://github.com/ljufa/rsplayer
+Description: RSPlayer - Music Player
+
