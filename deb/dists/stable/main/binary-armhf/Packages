@@ -1,0 +1,36 @@
+Package: rsplayer
+Architecture: armhf
+Version: 5.0.0
+Priority: optional
+Section: Sound
+Maintainer: Dragan Ljubojevic <dragan.ljubojevic@gmail.com>
+Installed-Size: 26324
+Depends: libasound2 (>= 1.2.4-1.1)
+Suggests: nfs-common (>= 1:1.3.4-6), cifs-utils (>= 2:6.9-1)
+Filename: pool/main/r/rsplayer/rsplayer_5.0.0_armhf.deb
+Size: 8594604
+MD5sum: 99f10d697ab8cb430e89888fae7be366
+SHA1: 288cab7c979725bc83f1b49a7ae755efaad7736b
+SHA256: e6b512b0086e13e5d68fb635e2c5a675f60c92a70fdc13a306e4883895f4af88
+SHA512: 20665f8d7c72e979642ba1b6dd5eca38e021085987863196d664954a68a9054ce55e8531bdba749b13dd60ac6a61dcee60a4604343cf3a4c8adc8e2208623f0e
+Homepage: https://github.com/ljufa/rsplayer
+Description: RSPlayer - Music Player
+
+Package: rsplayer
+Architecture: armhf
+Version: 5.1.0
+Priority: optional
+Section: Sound
+Maintainer: Dragan Ljubojevic <dragan.ljubojevic@gmail.com>
+Installed-Size: 26348
+Depends: libasound2 (>= 1.2.4-1.1)
+Suggests: nfs-common (>= 1:1.3.4-6), cifs-utils (>= 2:6.9-1)
+Filename: pool/main/r/rsplayer/rsplayer_5.1.0_armhf.deb
+Size: 8625816
+MD5sum: 118d4b366fbaea05b5fa1e3093d6dfd2
+SHA1: cc3031c4d9dae4a0a7852720a5c1a70a7eb747b5
+SHA256: 917a9932e7247b5dba77c16d35be970e6adef66e47867ae4802661bb54995909
+SHA512: 195b8ec08cbfbad9ec1b6b96b984a895533d9b4d4e29cbedab094305ddc3555719e9416efdd1faebd920e0084a4458bbb4bd3c736f54456565a6ca48d189a25c
+Homepage: https://github.com/ljufa/rsplayer
+Description: RSPlayer - Music Player
+
