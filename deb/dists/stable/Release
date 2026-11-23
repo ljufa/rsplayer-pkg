@@ -1,0 +1,48 @@
+Architectures: amd64 arm64 armhf riscv64
+Codename: stable
+Components: main
+Date: Mon, 23 Nov 2026 20:02:32 +0000
+Description: RSPlayer apt repository
+Label: RSPlayer
+Origin: RSPlayer
+Suite: stable
+MD5Sum:
+ 29cbc084f428d4fdb19dedccebc2f09d              197 Release
+ 4ce906c60ae9d6853612b013139cdcef             2820 main/binary-amd64/Packages
+ 45a0946fc1a0b66534de7b6672a85f98             1165 main/binary-amd64/Packages.gz
+ 220dd2a8207db71b6fd076b2c861e6b3             2818 main/binary-arm64/Packages
+ 9a6b6d78158f452180767f54d49bed69             1169 main/binary-arm64/Packages.gz
+ 342b5a2edca383c3a2d22a8ffae5a229             1430 main/binary-armhf/Packages
+ 4a36315d095605096fb85710ab2ae760              711 main/binary-armhf/Packages.gz
+ 150ce9d1fdc95f039b530089a847c7ee             1438 main/binary-riscv64/Packages
+ 591194fa2d2890148f18f538283953dc              715 main/binary-riscv64/Packages.gz
+SHA1:
+ e71cd109ca863d15cd00ac3fb318d64e56093d38              197 Release
+ 4b17fdeff2404d8ab9b768cee6459990d2d08f5d             2820 main/binary-amd64/Packages
+ 21373a006c8668091cd48c2d1c8e6a52040c4d95             1165 main/binary-amd64/Packages.gz
+ 674d69330dcbca40bd0e6f7f3c32ae3eeb487c43             2818 main/binary-arm64/Packages
+ 1d0a37adaa792282ddf52714808672c0daee3866             1169 main/binary-arm64/Packages.gz
+ 1207c31cb09a266eb7db1e3e18e5fa2a98787b5f             1430 main/binary-armhf/Packages
+ 2550acc9ad15edc886f54984eb1303440e292089              711 main/binary-armhf/Packages.gz
+ 06cd3a34294b076f7dca634551614a69d92b5619             1438 main/binary-riscv64/Packages
+ c78b5b43609345b59f262f216ebd539cee9be588              715 main/binary-riscv64/Packages.gz
+SHA256:
+ d90fd519b2de61ce3ff829f16eb245073f10c922d1102dc8f6fae4c1d9bbc127              197 Release
+ 043dad1675de4b24d148afdc12bba9cad09fc0a11acfa90e8db76a47a78b2dc5             2820 main/binary-amd64/Packages
+ 26d48bb277ba441513e43ad154771bc6f6f424b105265737635bc607648e9570             1165 main/binary-amd64/Packages.gz
+ 9e4233a4fa99cd4737f2fcf8d5c6a1d9d384838742c2827962b6132c681909de             2818 main/binary-arm64/Packages
+ 9049811bc68095aab2545d8b3fcc8d233026498f7bab6d5502348ce420b431bd             1169 main/binary-arm64/Packages.gz
+ fbeb3141e3310bb5622f8fb7c9f2f2403a13dc6c7df843336045514cca5da231             1430 main/binary-armhf/Packages
+ 8e9501610d94a2992bfc05af51c802e49e8eca782dae35fee4ffa306385a05f4              711 main/binary-armhf/Packages.gz
+ 025a1926b112e8e466924fb58eb1b5a2f06b6805518eb3c3d87095fc0d8fefcc             1438 main/binary-riscv64/Packages
+ 7a9e3d95fe5e3b6a66b3b1ee02412167ca7a7020d1c4c0aa4b9138954b78bd7a              715 main/binary-riscv64/Packages.gz
+SHA512:
+ c1649659654b5c017931f4a74b3115016c133a7903115b554b2675582d0ab4af418fd771c60b806f6766d23a86ff8a30f6b000d253b516b69b99513978d51adf              197 Release
+ 6a2d0297b6fcd472cb73d6fd56d5903d57bc24bf681388d5bea7b6cdd87126f57bf39dfc5f64fc0d0fbae6786d0a4280c57cef3a7528f5ffe86abc28df3f38cf             2820 main/binary-amd64/Packages
+ bae984e263051cb17aac8d32174f7a4f3218c914a0c2237fb7e93756be1293ce6da1b01555e98e9b9cfcb97cace677d5b40784cc61ab609a0c97329f54e39b3f             1165 main/binary-amd64/Packages.gz
+ 14986a818db95cea1f3029014655232d4b72f388f076704114ed60f30534dbd7077deddd1ca29f3d5a0590c24e221b6428d590e60e6bf390f52800ea9d6c3b41             2818 main/binary-arm64/Packages
+ fbe6ebedca8929d4a5232e002f191e08d266ec9c8ff677173bce222a4939dc3591a4f77f64ed1c2bd10f9366825f1b5418b5400c7a1beab0f62da58a96e918e1             1169 main/binary-arm64/Packages.gz
+ c2d9c70342ec128bc15e7354ef1cb391cfc662f60735551c5f116cd2e4b53cfa6e388f103bd807bd241e6ad8c665a97e711574f27c53a1b0673c0dcb2cf71a0a             1430 main/binary-armhf/Packages
+ df051eeb3155fddf47a5d426040ac4fa09dda3089e1b51d6e66c3e7f56d3851aceafefbcbdd6864415657ddad0314eafd2eb9c5a9205064e4c2443a004f80f37              711 main/binary-armhf/Packages.gz
+ 1724b41b9087da820290c8b53ca281c41328ab31848deae77e07f2237ca1e1489415d75d752410d9c17e880da2e1a92f5df3d00ac7e14a9fb9a9c94cef2f6c17             1438 main/binary-riscv64/Packages
+ 75ce11bee0635d23f12c53985c2f70537d544089375977f569924aba49358fdace17f4e303cd2bbc91f83f8c5da6fe866dcc7a62da19c044331e841e975078a7              715 main/binary-riscv64/Packages.gz
